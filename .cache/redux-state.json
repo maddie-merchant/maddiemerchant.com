@@ -1,0 +1,460 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Users/maddiemerchant/Documents/GitHub/maddiemerchant.com/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "updatedAt": 1518321171960,
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/maddiemerchant/Documents/GitHub/maddiemerchant.com/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0ba89dc6a25faa3d6b781820fcf57591",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin dev-404-page": {
+      "resolve": "/Users/maddiemerchant/Documents/GitHub/maddiemerchant.com/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "Plugin dev-404-page",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "pluginFilepath": "/Users/maddiemerchant/Documents/GitHub/maddiemerchant.com/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "cd0bc8fe239ea940b01c330e10148604",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-page-creator": {
+      "resolve": "/Users/maddiemerchant/Documents/GitHub/maddiemerchant.com/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "id": "Plugin component-page-creator",
+      "name": "component-page-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "pluginFilepath": "/Users/maddiemerchant/Documents/GitHub/maddiemerchant.com/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "packageJson": {
+        "name": "component-page-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "baa99ce7d5b10a5abc5c135fc9d4be3a",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin component-layout-creator": {
+      "resolve": "/Users/maddiemerchant/Documents/GitHub/maddiemerchant.com/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "id": "Plugin component-layout-creator",
+      "name": "component-layout-creator",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createLayouts"
+      ],
+      "pluginFilepath": "/Users/maddiemerchant/Documents/GitHub/maddiemerchant.com/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "packageJson": {
+        "name": "component-layout-creator",
+        "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "3504ca37c9c5e587bf88ac1c5675a1d8",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin internal-data-bridge": {
+      "resolve": "/Users/maddiemerchant/Documents/GitHub/maddiemerchant.com/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "Plugin internal-data-bridge",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "pluginFilepath": "/Users/maddiemerchant/Documents/GitHub/maddiemerchant.com/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "603480712d5247e0200d5ff65bb1de1d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin prod-404": {
+      "resolve": "/Users/maddiemerchant/Documents/GitHub/maddiemerchant.com/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "Plugin prod-404",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "pluginFilepath": "/Users/maddiemerchant/Documents/GitHub/maddiemerchant.com/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "a7ff3dc7d56d44c7176f1f841a180d83",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin query-runner": {
+      "resolve": "/Users/maddiemerchant/Documents/GitHub/maddiemerchant.com/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "Plugin query-runner",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage",
+        "onCreateLayout"
+      ],
+      "pluginFilepath": "/Users/maddiemerchant/Documents/GitHub/maddiemerchant.com/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "3e0094b98e4fb6887d5dbab89a3948d7",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-plugin-react-helmet": {
+      "resolve": "/Users/maddiemerchant/Documents/GitHub/maddiemerchant.com/node_modules/gatsby-plugin-react-helmet",
+      "id": "Plugin gatsby-plugin-react-helmet",
+      "name": "gatsby-plugin-react-helmet",
+      "version": "2.0.4",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/Users/maddiemerchant/Documents/GitHub/maddiemerchant.com/node_modules/gatsby-plugin-react-helmet",
+      "packageJson": {
+        "name": "gatsby-plugin-react-helmet",
+        "description": "Stub description for gatsby-plugin-react-helmet",
+        "version": "2.0.4",
+        "main": "index.js",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews &lt;mathews.kyle@gmail.com&gt;",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "react-helmet",
+            "version": ">=5.1.3"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "3bde5789b88c40c5273532aacf8efbd2",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/Users/maddiemerchant/Documents/GitHub/maddiemerchant.com",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "72c0d37b2bb406acb273b4e25d7d77c3",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "pluginFilepath": "/Users/maddiemerchant/Documents/GitHub/maddiemerchant.com",
+      "packageJson": {
+        "name": "gatsby-starter-default",
+        "description": "Gatsby default starter",
+        "version": "1.0.0",
+        "main": "n/a",
+        "keywords": [
+          "gatsby"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.9.158"
+          },
+          {
+            "name": "gatsby-link",
+            "version": "^1.6.34"
+          },
+          {
+            "name": "gatsby-plugin-react-helmet",
+            "version": "^2.0.3"
+          },
+          {
+            "name": "react-helmet",
+            "version": "^5.2.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "prettier",
+            "version": "^1.10.2"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "378d3e8bb0f67d2dd3c24892c898ed11",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {
+        "title": "Gatsby Default Starter"
+      },
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "",
+      "polyfill": true,
+      "buildTime": "2018-02-11T03:52:50.312Z",
+      "id": "Site",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "3ba4828f7e79af4d81eae36584ec8677",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404/": {
+      "layout": "index",
+      "jsonName": "404.json",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/maddiemerchant/Documents/GitHub/maddiemerchant.com/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "updatedAt": 1518321171964,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/maddiemerchant/Documents/GitHub/maddiemerchant.com/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3aca2d72dc0e9f6ac13ed527efe5c7d4",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/maddiemerchant/Documents/GitHub/maddiemerchant.com/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "updatedAt": 1518321171965,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/maddiemerchant/Documents/GitHub/maddiemerchant.com/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "215de3567663eec836f4276a4037b6c3",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /page-2/": {
+      "layout": "index",
+      "jsonName": "page-2.json",
+      "internalComponentName": "ComponentPage2",
+      "path": "/page-2/",
+      "component": "/Users/maddiemerchant/Documents/GitHub/maddiemerchant.com/src/pages/page-2.js",
+      "componentChunkName": "component---src-pages-page-2-js",
+      "context": {},
+      "updatedAt": 1518321171965,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/maddiemerchant/Documents/GitHub/maddiemerchant.com/src/pages/page-2.js",
+      "id": "SitePage /page-2/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4f3be3732b05625fd16b5a49bb51141a",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "layout": "index",
+      "jsonName": "404-html.json",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/maddiemerchant/Documents/GitHub/maddiemerchant.com/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "context": {},
+      "updatedAt": 1518321171967,
+      "pluginCreator___NODE": "Plugin prod-404",
+      "pluginCreatorId": "Plugin prod-404",
+      "componentPath": "/Users/maddiemerchant/Documents/GitHub/maddiemerchant.com/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4bdbea2248e719bc2215ac4c0e30bc1e",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "7d173da5f3f63ce85af5e768da4b8f20"
+  },
+  "componentDataDependencies": {
+    "nodes": {},
+    "connections": {
+      "SitePage": [
+        "/dev-404-page/"
+      ]
+    }
+  }
+}
